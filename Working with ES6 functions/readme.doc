@@ -1,0 +1,29 @@
+Working with ES6 functions
+
+Using forEach Loops
+When working with an array, you will often find yourself iterating through its items to perform different operations on them. This is where forEach becomes a useful tool.
+
+array.forEach allows you to loop through each item in the array, in the ascending order, without mutating the array.
+
+The first argument of forEach(callback, [optional]) is the callback function that is called for each and every item in an array. Each element of an array is passed into a function and the function performs its actions on each element of the array. Let's see how this works:
+
+let seasons = ['summer','fall','winter','spring']
+ 
+function printSeason(season){
+    console.log(season);
+}
+ 
+seasons.forEach((season) => printSeason(season));
+// expected result:
+// "summer"
+// "fall"
+// "winter"
+// "spring"
+
+In this example, for each element in the seasons array, the callback function printSeason is called. Thus, each season is printed on the console.
+
+Now, it's your turn to use forEach
+
+Your task in this activity is to implement a function called createParagraph that takes an array of strings, 
+and returns a single string containing all the items in the array separated by a space.
+
