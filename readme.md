@@ -20,10 +20,10 @@ Coding Assignments
 
 <u>Self-study activities</u>
 
-For Each Exercise
-Filter Exercise: Find the Graffiti
+* For Each Exercise
+* Filter Exercise: Find the Graffiti
 
-Sort Exercise: Sort and Chart Salaries
-Map Exercise
-Reduce Exercise
-Word Count Exercise
+* Sort Exercise: Sort and Chart Salaries
+* Map Exercise
+* Reduce Exercise
+* Word Count Exercise
