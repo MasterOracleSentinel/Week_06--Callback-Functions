@@ -10,11 +10,11 @@ Callback functions can be a challenging concept at first, so you need to practic
 Key activities
 
 Coding Activities
-*Using For Each Loops
-*Working with Callbacks
+* Using For Each Loops
+* Working with Callbacks
 
 Coding Assignments
-*Find the Most Common Words Assignment
+* Find the Most Common Words Assignment
 
 
 
