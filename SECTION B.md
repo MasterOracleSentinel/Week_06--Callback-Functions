@@ -31,3 +31,35 @@ Submission Instructions:
 
 Word count: 150-300
 Did you learn anything new from one of your peer's posts? Reply and share what you learned from them to continue the conversation. 
+
+
+Creating A Callback Function Reflection
+
+Devise two use cases where a callback function would be appropriate and use pseudocode to illustrate each use case for the prompts below:
+
+Ordering a beverage at your local cafe
+Asking for directions to your friend’s house, or, create your own example!
+ If you are struggling, it is okay to use Google or ask a peer for help. 
+
+For a very broad example, review the pseudocode below. It describes a program that runs a few processes on a user’s input and alerts them when the process is finished.  
+
+ 
+
+function sayHelloCallback() {
+  alert('Hello, ' + firstName + ' ' + lastName);
+}
+
+function getUserInput(firstName, lastName, sayHelloCallback)  {
+    //validate firstName/lastName
+
+    //Now use the names in the callback function
+    sayHelloCallback (firstName, lastName);
+}
+
+ 
+
+Submission Instructions:
+
+Word count: 150-300
+Did your peers share any creative examples that helped you better understand callback functions? If so, reply to them and continue the conversation.
+
